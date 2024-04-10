@@ -1,0 +1,2 @@
+# simplotelprojDeepakKodnest
+Simplotel Assignment
